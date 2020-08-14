@@ -1,2 +1,2 @@
 # hello-world-course
-first repository
+Hello there.. I'm new here. I want to know more in here.
